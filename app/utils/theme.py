@@ -1,0 +1,15 @@
+"""Shared design tokens — single source of truth for the UI and the static
+HTML export. TimeForge. Pure dark / black forensics palette."""
+
+BG = "#080808"
+PANEL = "#101010"
+PANEL2 = "#141414"
+BORDER = "#252525"
+TEXT = "#E8E8E8"
+TEXT_DIM = "#888888"
+TEXT_FAINT = "#555555"
+ACCENT = "#E8A33D"
+ACCENT_DIM = "#7A5A22"
+DANGER = "#C25B3A"
+OK = "#7BA05B"
+SELECTED_BG = "#1B1408"
